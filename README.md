@@ -1,11 +1,5 @@
 # 🚗 Used Cars Sales Analysis — Exploratory Data Analysis (EDA)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Pandas](https://img.shields.io/badge/Pandas-EDA-green)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-red)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 ---
 
 ## 📌 Project Overview
@@ -180,8 +174,7 @@ jupyter notebook EDA_Project_Cars24_Final.ipynb
 
 ## 👤 Author
 
-**Sivamani Kumar Reddy Gogireddy**  
-Data Analytics Training — Innomatics Research Labs (2025)  
+**Sivamanikumar Reddy Gogireddy**    
 📧 gsivamanikumarreddy2003@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sivamani-kumar-reddy-gogireddy-346665259)  
 🐙 [GitHub](https://github.com/GSKReddy-01468)
