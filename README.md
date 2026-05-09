@@ -176,7 +176,7 @@ jupyter notebook EDA_Project_Cars24_Final.ipynb
 
 **Sivamanikumar Reddy Gogireddy**    
 📧 gsivamanikumarreddy2003@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sivamani-kumar-reddy-gogireddy-346665259)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sivamanikumar-reddy-gogireddy-346665259)  
 🐙 [GitHub](https://github.com/GSKReddy-01468)
 
 ---
